@@ -4,7 +4,6 @@
 
 Welcome to my GitHub profile! I'm working on **data-driven condition monitoring** and **predictive maintenance** solutions for mechanical systems. My goal is to bring reliable, data-driven insights into industrial processes, contributing to the next evolution of **Industry 4.0**.
 
-<![Condition Monitoring](https://your-image-url-here)>
 <!-- Add a graphic relevant to condition monitoring or data science in industry -->
 
 ---
