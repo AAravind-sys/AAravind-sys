@@ -1,5 +1,5 @@
 # Aravind Kumar Arunagiri 
-### **Industrial AI Architect | Physics-Informed ML & Cyber-Physical Systems**
+### **Industrial AI Architect | Physics-Informed ML | Signal Processing**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![ISO Certification](https://img.shields.io/badge/Certification-ISO_18436--1_Cat_II_Vibration_Analyst-success?style=for-the-badge)](https://mobiusinstitute.com)
