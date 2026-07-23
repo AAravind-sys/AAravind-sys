@@ -1,11 +1,13 @@
-# Aravind Kumar Arunagiri 
-### **Industrial AI Architect | Physics-Informed ML | Signal Processing**
+<h1 align="center">Aravind Kumar Arunagiri</h1>
+<h3 align="center">Industrial AI Engineer | Physics-ML  & Signal Processing Techniques</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![ISO Certification](https://img.shields.io/badge/Certification-ISO_18436--1_Cat_II_Vibration_Analyst-success?style=for-the-badge)](https://mobiusinstitute.com)
-[![Domain Experience](https://img.shields.io/badge/Experience-7%2B_Years_Industrial_R%26D-blue?style=for-the-badge)](#)
-
----
+<p align="center">
+  <a href="https://linkedin.com/in/aravind-kumar-arunagiri-iaiml">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+  <img src="https://img.shields.io/badge/ISO%2018436--1-Category%20II%20Vibration%20Analyst-green?style=flat" />
+  <img src="https://img.shields.io/badge/Experience-7%2B%20years-orange?style=flat" />
+</p>
 
 ## 🛠️ Executive Summary
 
@@ -40,3 +42,6 @@ I build **Physics-Informed Machine Learning (PIML)** systems, digital twins, and
 
 * **Email:** `aravi.aero@gmail.com`
 * **Location:** Bengaluru / Tamil Nadu, India
+  
+### 📫 Reach me
+[LinkedIn](https://linkedin.com/in/aravind-kumar-arunagiri-iaiml) · Bengaluru, India
