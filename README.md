@@ -1,68 +1,52 @@
-# 👋 Hello, I'm Aravind Kumar Arunagiri!
+<h1 align="center">Aravind Kumar Arunagiri</h1>
+<h3 align="center">Industrial AI Engineer | Physics-ML for Rotating Machinery & Water Infrastructure</h3>
 
-🎓 **Mechanical Engineer | Data Scientist in Condition Monitoring | Industry 4.0 Enthusiast**
-
-Welcome to my GitHub profile! I'm working on **data-driven condition monitoring** and **predictive maintenance** solutions for mechanical systems. My goal is to bring reliable, data-driven insights into industrial processes, contributing to the next evolution of **Industry 4.0**.
-
-<!-- Add a graphic relevant to condition monitoring or data science in industry -->
-
----
-
-## 🔧 Skills and Expertise
-
-### 📊 Data Science & Machine Learning Tools
-
-- **Signal Processing Techniques:**
-  - Fast Fourier Transform (FFT)
-  - Wavelet Analysis
-  - Time Waveform Analysis
-
-- **Languages and Tools:**
-    <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="85" height="85"/> </a>  
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="85" height="85"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="85" height="85"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="85" height="85"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="85" height="85"/> </a> </p>
-
-## **Certifications:**
-  - Vibration Analysis, **CAT II Certified**
+<p align="center">
+  <a href="https://linkedin.com/in/aravind-kumar-arunagiri-iaiml">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+  <img src="https://img.shields.io/badge/ISO%2018436--1-Category%20II%20Vibration%20Analyst-green?style=flat" />
+  <img src="https://img.shields.io/badge/Experience-7%2B%20years-orange?style=flat" />
+</p>
 
 ---
 
-## 💼 Current Role and Projects
+### 🎯 What I do
 
-In my role as **Technical Lead** at **Dover India**, I focus on:
+I build **Physics-Informed Machine Learning systems** for predictive maintenance and digital twins in rotating machinery and water utility infrastructure — bridging mechanical engineering domain depth with production-grade MLOps.
 
-- Leading **data-driven condition monitoring** and **predictive maintenance** projects
-- Developing **predictive models** and dashboards to improve equipment reliability
-- Creating impactful visualizations and data insights to drive productivity and efficiency
-
----
-
-## 📊 GitHub Projects
-
-🔍 My repositories include projects on:
-
-- Predictive analysis and **failure probability estimation**
-- Signal processing applications for **industrial diagnostics**
-- **Condition monitoring** tools and visualizations for operational insights
----
-
-## 🌐 Let’s Connect!
-
-I'm always open to discussing **industrial data science**, **predictive maintenance**, and innovations for **Industry 4.0**. Connect with me:
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Email](mailto:your-email@example.com)
+- 🔧 **Domain expertise:** Vibration analysis, hydraulic systems, rotating machinery diagnostics, Electrical Signature Analysis (ESA)
+- 🧠 **ML/DL stack:** PINNs, LSTM, PyTorch, SHAP, MLflow, DVC
+- ☁️ **MLOps/Deployment:** FastAPI, Docker, GitHub Actions CI/CD, ONNX Runtime, AWS SageMaker
+- 🏭 **Production deployments:** BWSSB Bengaluru & BMC Mumbai — government-scale water utility infrastructure
 
 ---
 
-## 📈 My Interests
+### 📄 Publications & Talks
 
-- **Industrial Data Science**: Leveraging data to drive actionable insights and smarter machinery.
-- **Predictive Maintenance**: Applying data science techniques to forecast component failures and prevent downtime.
-- **Industry 4.0**: Empowering traditional industries through digital transformation and analytics.
-
-![Industry 4.0 Graphic](https://img.shields.io/badge/Industry%204.0-0A66C2?style=for-the-badge)
-<!-- Add a relevant image that reflects your interest in Industry 4.0 or industrial data science -->
+- **IEEMA 2026** — AI-Enabled Time Series Forecasting of Vibration Trends in Pumping Systems for Early Fault Signature Analysis,IEEMA Annual Conference & Exhibition- V(A)-13, Mumbai, June 2026.
+- **AWWA India 2025** — AI-Powered Pump Scheduling for Energy-Efficient Water Distribution — AWWA India Association, 4th Annual International Conference & Exhibition, 2025
 
 ---
+### 🛠️ Tech Stack
+
+**Machine Learning / Deep Learning**
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+**MLOps / Deployment**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+**Signal Processing / Domain Tools**
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+---
+
+### 📫 Reach me
+
+[LinkedIn](https://linkedin.com/in/aravind-kumar-arunagiri-iaiml) · Bengaluru, India
